@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="SBookProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SBookProject_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SBookProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SBookProject" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
