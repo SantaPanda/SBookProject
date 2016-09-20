@@ -5,7 +5,7 @@
 <html>
 <head>
 </head>
-<body>
+<body><%--sfs--%>
 <%!
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String ADDRESS = "jdbc:mysql://localhost:3306/webproject1";
